@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./v10_horror.gif" width="240" alt="𝓐.𝓒.𝓑" />
+<img src="./v10_horror.gif" width="240" alt="A.C.B" />
 
 # A.C.B
 
