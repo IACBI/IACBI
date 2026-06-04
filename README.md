@@ -19,9 +19,7 @@
 
 ### About
 
-Mathematician by mind, prompt engineer by craft. I build small, sharp tools — audio converters, teleprompters, players — and I design prompts that get models to do exactly what they're told.
-
-Most of my code is Python. Most of my words are aimed at machines.
+Mathematician by mind, prompt engineer by craft. I design prompts that get models to do exactly what they're told.
 
 ---
 
